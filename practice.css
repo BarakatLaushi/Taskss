@@ -1,0 +1,32 @@
+li {
+    display: inline-block;
+    list-style: none;
+    background-color: rgb(85, 104, 156);
+    margin-top: 10px;
+    margin: 20px;
+    padding: 18px;
+    border-radius: 10px;
+    border-style: double;
+    border-color: rgb(106, 170, 170);
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: arial;
+}
+
+nav {
+
+
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 700px;
+    margin-left: 200px;
+}
